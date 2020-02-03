@@ -24,6 +24,7 @@ public class ApplePicker : MonoBehaviour
             basketList.Add(tBasketGO);
         }
     }
+    /*
     public void AppleDestroyed()
     {
         GameObject[] tAppleArray = GameObject.FindGameObjectsWithTag("Apple");
@@ -42,5 +43,6 @@ public class ApplePicker : MonoBehaviour
             SceneManager.LoadScene("_Scene_0");
         }
     }
+    */
 
 }
